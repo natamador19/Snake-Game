@@ -3,4 +3,6 @@ Snake Game - Beginner Python
 
 ![Imagen del juego de serpiente] (SnakeGame.png)
 
-![Imagen del juego de serpiente 2] (https://github.com/natamador19/Snake-Game/blob/main/GameOver.png)
+<image src="https://github.com/natamador19/Snake-Game/blob/main/SnakeGame.png" alt ="Snake Game Image">
+
+<image src="https://github.com/natamador19/Snake-Game/blob/main/GameOver.png" alt ="Snake Game Image">
